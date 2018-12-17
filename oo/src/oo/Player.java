@@ -6,4 +6,8 @@ public class Player {
 		System.out.println("Jogador iniciado");
 	}
 	
+	public void nascer() {
+		System.out.println("Nasceu...");
+	}
+	
 }
